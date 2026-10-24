@@ -38,9 +38,6 @@ yarn-error.*
 
 app-example
 
-# local editor/tool settings
-.claude/
-
 # generated native folders
 /ios
 /android
